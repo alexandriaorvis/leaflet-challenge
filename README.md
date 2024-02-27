@@ -1,0 +1,1 @@
+For this challenge I used ChatGPT to provide guidance for the legend creation as well as to help me structure some of the content within the createMap function
